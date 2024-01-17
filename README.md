@@ -1,4 +1,3 @@
-# lgs.github.io
 <!DOCTYPE html>
 <html>
 <body>
